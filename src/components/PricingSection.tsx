@@ -89,7 +89,7 @@ const PricingSection: React.FC = () => {
         "Priority Support"
       ],
       ctaText: "Contact our team",
-      ctaLink: "mailto:hello@whatflows.io"
+      ctaLink: "https://tally.so/r/3jg85Q"
     }
   ];
 
