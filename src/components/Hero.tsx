@@ -12,7 +12,7 @@ const Hero = () => {
       </p>
       <div className="flex flex-row gap-3 mt-6 w-full max-w-md justify-center items-center font-semibold">
         <div className="flex-grow sm:flex-grow-0 text-white">
-          <a href="https://app.whatflows.io/" aria-label="Get started with Whatflows">
+          <a href="https://tally.so/r/3jg85Q" aria-label="Get started with Whatflows">
             <button className="px-3 py-2 sm:px-3.5 sm:py-2.5 bg-black rounded-xl w-full text-sm sm:text-base">
               Get started
             </button>
