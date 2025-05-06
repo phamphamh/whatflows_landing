@@ -24,7 +24,7 @@ export function HeroSection() {
           service — saving time, reducing costs, and boosting satisfaction.
         </p>
         <div className="flex gap-5 justify-center mt-5 max-sm:flex-col">
-          <a href="https://app.whatflows.io/">
+          <a href="https://tally.so/r/3jg85Q">
             <Button variant="default" className="bg-black">Get started</Button>
           </a>
           <button className="flex gap-1.5 items-center text-base font-medium cursor-pointer">

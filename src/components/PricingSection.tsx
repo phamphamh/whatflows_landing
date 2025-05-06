@@ -1,4 +1,3 @@
-
 import * as React from "react";
 import { cn } from "@/lib/utils";
 import { Card } from "./ui/card";
@@ -48,7 +47,7 @@ const PricingSection: React.FC = () => {
         "Standard Customer Support"
       ],
       ctaText: "Sign up",
-      ctaLink: "https://app.whatflows.io/"
+      ctaLink: "https://tally.so/r/3jg85Q"
     },
     {
       title: "Grow",
@@ -62,7 +61,7 @@ const PricingSection: React.FC = () => {
         "Priority Support"
       ],
       ctaText: "Get started",
-      ctaLink: "https://app.whatflows.io/"
+      ctaLink: "https://tally.so/r/3jg85Q"
     },
     {
       title: "Advanced",
@@ -76,7 +75,7 @@ const PricingSection: React.FC = () => {
         "Priority Support"
       ],
       ctaText: "Get started",
-      ctaLink: "https://app.whatflows.io/"
+      ctaLink: "https://tally.so/r/3jg85Q"
     },
     {
       title: "Plus",
