@@ -41,7 +41,7 @@ function Landing() {
             <Hero />
           </div>
           <img
-            src="/public/lovable-uploads/dashboard_image.png"
+            src="./public/lovable-uploads/dashboard_image.png"
             alt="Dashboard preview"
             className="absolute top-[380px] md:top-[470px] left-1/2 -translate-x-1/2 w-[90%] max-w-[1059px] h-[220px] sm:h-[270px] md:h-[320px] lg:h-[370px] rounded-t-lg shadow-2xl z-10 object-cover object-top"
           />
